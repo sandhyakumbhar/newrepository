@@ -1,0 +1,6 @@
+hello world!!
+this is new text file
+in new directory
+used vi cmd to edit the file and save. 
+
+
